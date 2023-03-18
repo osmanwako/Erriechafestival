@@ -1,18 +1,10 @@
-const popupcontent = document.querySelector('.navbar-main');
-const humbergid = document.querySelector('#humbergurid');
-const closebtnid = document.querySelector('#popup-closeid');
-
-function openmenu() {
-  popupcontent.classList.toggle('popup-menu');
-  document.querySelector('header').style.display = 'block';
-  document.querySelector('main').style.display = 'none';
-}
-
-function closemenu() {
-  document.querySelector('header').style.display = 'none';
-  document.querySelector('main').style.display = 'block';
-  popupcontent.classList.toggle('popup-menu');
-}
-
-humbergid.addEventListener('click', openmenu);
-closebtnid.addEventListener('click', closemenu);
+const body = document.getElementsByTagName('BODY')[0];
+const hamburgerMenu = document.getElementById('hamburgerMenu');
+const nav = document.getElementById('nav');
+const mobileMenuBg = document.querySelector('.mobile-menu-bg');
+hamburgerMenu.addEventListener('click', () => {
+  hamburgerMenu.classList.toggle('change');
+  nav.classList.toggle('change');
+  mobileMenuBg.classList.toggle('change');
+  body.classList.toggle('change');
+});
