@@ -217,9 +217,10 @@ hr {
   .footer .footer-section {
     display: none;
   }
-
+ 
   .footer .logo-and-description .logo {
     float: left;
+
   }
 
   .footer .logo-and-description .logo a {
