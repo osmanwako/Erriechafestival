@@ -32,15 +32,20 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 My Portfolio <a name="about-project"></a>
+# 📖 Erriecha Festival <a name="about-project"></a>
 
 This may be the largest and professinal project i have achieved with microverse.
-After one month training 
+After one month training. 
 
-## 🛠 Built With <a name="built-with"></a>
-
+## 🛠 Built With <a name="built-with"></a> Has two static page home from index and about from about.html
+- HTML, CSS
+- Git, Github
+- VSCode
 ### Tech Stack <a name="tech-stack"></a>
-
+> HTML,
+> CSS,
+> Git,
+> Github
 <details>
   <summary>Client</summary>
   <ul>
@@ -66,6 +71,12 @@ After one month training
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
+> Features I used in this project mainly:
+
+- **HTML**
+- **CSS**
+- **Linters and Stylelint**
+- **eslint**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -80,12 +91,27 @@ After one month training
 Clone this repository to your desired folder:
 
 ```
-git clone https://github.com/osmanwako/Desktoportfolio
+git clone https://github.com/osmanwako/Erriechafestival.git
 ```
+### Prerequisites
 
+-NodeJS
+-Browser
+
+In order to run this project you need:
+
+### Setup
+
+Clone this repository to your desired folder:
+
+git clone git clone https://github.com/osmanwako/Erriechafestival.git
+
+cd Erriechafestival
 ### Install
 
-Install this project with:
+Install project dependencies in this project with:
+
+npm install
 
 ### Usage
 
@@ -101,10 +127,6 @@ Install this project with:
 
 - GitHub: [@Osmanwako](https://github.com/osmanwako)
 - LinkedIn: [Osmanwako](https://www.linkedin.com/in/osman-wako-08663825a/)
-
-👤 **Designer **
-I would like to give appropriate credit to Original designer Cindy Shin in Behance
-- Design: [@Cindy Shin in Behance](https://www.behance.net/adagio07)
      
 <!-- FUTURE FEATURES -->
 
@@ -136,7 +158,7 @@ If you are interesting to this Erriecha festival Project please
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank Microverse Community and student Code partiner,Morning Session and standup all .
-also Designer of Original design idea's Cindy Shin in Behance again.
+also Designer of Original design idea's Cindy Shin in Behance has acknowledments again.
 
 <!-- LICENSE -->
 
