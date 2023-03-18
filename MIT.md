@@ -1,8 +1,8 @@
-## Copyright 2023 ,Osman Wako
+## Copyright March 2023 ,Osman Wako
 
 <br>
-Permission is hereby granted, free of charge, to any person obtaining a copy of this  Portfolio and associated documentation files, to deal in the Portfolio without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the  Portfolio, and to permit persons to whom the  Portfolio is furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this  Erriecha Festival Project and associated documentation files, to deal in the Erriecha Festival Project without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the  Erriecha Festival Project, and to permit persons to whom the  Erriecha Festival Project is furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Portfolio.
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Erriecha Festival Project.
 
-THE Portfolio IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE Portfolio OR THE USE OR OTHER DEALINGS IN THE Portfolio.
+THE Erriecha Festival Project IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE Erriecha Festival Project OR THE USE OR OTHER DEALINGS IN THE Erriecha Festival Project.

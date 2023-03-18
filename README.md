@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>Portfolio Popup Details</b></h3>
+  <h3><b>Erriecha Annual Festival</b></h3>
 
 </div>
 
@@ -34,7 +34,8 @@
 
 # 📖 My Portfolio <a name="about-project"></a>
 
-This is my first mobile version port folio microverse project
+This may be the largest and professinal project i have achieved with microverse.
+After one month training 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -45,6 +46,8 @@ This is my first mobile version port folio microverse project
   <ul>
     <li><a href="https://www.w3schools.com/html/">html</a></li>
     <li><a href="https://www.w3schools.com/css/">css</a></li>
+    <li><a href="https://www.w3schools.com/jss/">Jss</a></li>
+
   </ul>
 </details>
 
@@ -99,10 +102,10 @@ Install this project with:
 - GitHub: [@Osmanwako](https://github.com/osmanwako)
 - LinkedIn: [Osmanwako](https://www.linkedin.com/in/osman-wako-08663825a/)
 
-👤 **Collaborator**
-
-- GitHub: [@bennyjoez](https://github.com/bennyjoez)
-- Twitter: [@bennyjoezz](https://twitter.com/bennyjoezz)
+👤 **Designer **
+I would like to give appropriate credit to Original designer Cindy Shin in Behance
+- Design: [@Cindy Shin in Behance](https://www.behance.net/adagio07)
+     
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
@@ -124,17 +127,16 @@ Feel free to check the issues page.
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you are interesting to this port folio please
+If you are interesting to this Erriecha festival Project please
 
-- join microverse
-- Read w3chool website html
-- Read CSS tutorials
+- Please contact me by the email address: Osmanwako411@gmail.com
 
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank Microverse Community and student Code partiner,Morning Session and standup all .
+also Designer of Original design idea's Cindy Shin in Behance again.
 
 <!-- LICENSE -->
 
