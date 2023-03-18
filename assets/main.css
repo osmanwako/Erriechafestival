@@ -96,8 +96,6 @@ nav.change .logo {
   z-index: 1;
 }
 
-/* ********** hamburger menu ************ */
-
 .hamburger-menu {
   position: absolute;
   top: 1rem;
@@ -141,11 +139,12 @@ nav.change .logo {
   background-repeat: no-repeat;
   width: 100%;
 }
+
 .linklogo-image {
   max-width: 16.66rem;
   max-height: 3.75rem;
 }
-/* ************** main page ********* */
+
 .main {
   display: flex;
   flex-direction: column;
