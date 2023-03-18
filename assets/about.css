@@ -1,0 +1,234 @@
+:root {
+  --main: #272a31;
+  --second: #ec5242;
+  --third: #d3d3d3;
+}
+
+.title-and-description {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  gap: 1.5rem;
+  background-color: rgb(211, 211, 211, 0.3);
+  border-bottom: 2px solid var(--third);
+}
+
+.title-and-description .hero-title {
+  position: relative;
+  color: var(--second);
+  width: 100%;
+  background-clip: unset;
+  background-image: none;
+  -webkit-text-fill-color: var(--second);
+}
+
+.title-and-description .hero-title::after {
+  content: '';
+  position: absolute;
+  top: 5rem;
+  left: 50%;
+  width: 3rem;
+  height: 1px;
+  transform: translate(-50%, -50%);
+  background-color: #ec5242;
+}
+
+.description-text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 0;
+  text-align: center;
+}
+
+.title-and-description .description-text {
+  border: 2px solid var(--third);
+  padding: 1rem;
+  width: 100%;
+  background-color: rgb(255, 255, 255, 1);
+  text-align: center;
+}
+
+.title-and-description .description-text p {
+  display: none;
+}
+
+.program-place {
+  font-size: 0.9rem;
+  padding: 0;
+}
+
+.email-link a {
+  font-weight: bold;
+  color: var(--main);
+}
+
+.main-program {
+  background-color: #fff;
+  gap: 2rem;
+  padding: 2rem 1rem;
+  color: var(--main);
+  background-image: none;
+}
+
+.main-program-title {
+  position: relative;
+  text-align: center;
+}
+
+.main-program-title::after {
+  content: '';
+  position: absolute;
+  top: 4rem;
+  left: 50%;
+  width: 3rem;
+  height: 1px;
+  transform: translate(-50%, -50%);
+  background-color: #ec5242;
+}
+
+.description-text-2 {
+  display: none;
+}
+
+.main-program .join-btn {
+  outline: none;
+  border: 2px solid var(--third);
+  padding: 2rem;
+  font-size: 1.2rem;
+  background-color: #fff;
+}
+
+.join-btn .logo a {
+  color: var(--main);
+  text-decoration: none;
+}
+
+hr {
+  background-color: var(--third);
+  border: none;
+  height: 2px;
+  width: 100%;
+}
+
+.history-show-image {
+  position: relative;
+  padding: 2rem 1rem;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.image-and-text {
+  position: relative;
+  padding: 2rem 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  background-color: var(--second);
+  overflow: hidden;
+  text-align: center;
+}
+
+.image-and-text img {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  object-fit: cover;
+  background-position: center;
+  width: 100%;
+  height: 100%;
+  opacity: 0.3;
+}
+
+.year {
+  color: #fff;
+  z-index: 1;
+  font-weight: 600;
+  font-size: 2rem;
+}
+
+.year-description {
+  z-index: 1;
+  color: #fff;
+}
+
+@media (min-width: 768px) {
+  .title-and-description .hero-title {
+    color: var(--second);
+    width: 75%;
+  }
+
+  .title-and-description .hero-title::after {
+    content: '';
+    position: absolute;
+    top: 13rem;
+    left: 50%;
+    width: 3rem;
+    height: 1px;
+    transform: translate(-50%, -50%);
+    background-color: #ec5242;
+  }
+
+  .title-and-description .description-text p {
+    display: block;
+    padding: 1rem 2rem;
+  }
+
+  .title-and-description .program-place {
+    font-size: 1rem;
+    font-weight: 550;
+  }
+
+  .main-program-title::after {
+    top: 4rem;
+  }
+
+  .description-text-2 {
+    display: block;
+    width: 50%;
+    text-align: center;
+  }
+
+  .main-program .join-btn {
+    display: block;
+  }
+
+  .history-show-image {
+    flex-direction: row;
+    padding: 2rem 10rem;
+    width: 100%;
+    height: 50vh;
+  }
+
+  .image-and-text {
+    width: 32%;
+  }
+
+  .footer .footer-section {
+    display: none;
+  }
+
+  .footer .logo-and-description .logo {
+    float: left;
+  }
+
+  .footer .logo-and-description .logo a {
+    color: var(--third);
+  }
+
+  .footer .logo-and-description {
+    background-color: var(--main);
+    color: var(--third);
+    float: right;
+  }
+}
