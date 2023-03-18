@@ -24,7 +24,7 @@
 }
 
 .title-and-description .hero-title::after {
-  content: "";
+  content: '';
   position: absolute;
   top: 5rem;
   left: 50%;
@@ -79,7 +79,7 @@
 }
 
 .main-program-title::after {
-  content: "";
+  content: '';
   position: absolute;
   top: 4rem;
   left: 50%;
@@ -169,7 +169,7 @@ hr {
   }
 
   .title-and-description .hero-title::after {
-    content: "";
+    content: '';
     position: absolute;
     top: 13rem;
     left: 50%;
@@ -217,10 +217,9 @@ hr {
   .footer .footer-section {
     display: none;
   }
- 
+
   .footer .logo-and-description .logo {
     float: left;
-
   }
 
   .footer .logo-and-description .logo a {
