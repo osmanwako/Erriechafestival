@@ -537,3 +537,43 @@ footer {
     grid-template-rows: auto;
   }
 }
+
+.popup-menu {
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #fefefe;
+  width: 100%;
+  height: 100vh;
+  opacity: 9.56;
+}
+
+.popup-menu .listicon-close {
+  display: block;
+  background-color: #fefefe;
+}
+
+.popup-menu > .navmain-icon {
+  background-color: white;
+  margin: 0.625rem;
+  padding: 0.625rem;
+  border-bottom: #272a31 solid 2px;
+}
+
+.popup-menu > .navmain-container {
+  background-color: #fefefe;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.popup-menu > .navmain-container > li {
+  text-align: left;
+  width: 50%;
+  font-size: 1.25rem;
+  margin: 0.4rem;
+  padding: 0.625rem;
+}
