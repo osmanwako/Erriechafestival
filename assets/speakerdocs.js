@@ -24,7 +24,7 @@ const messages = {
 
 function createstrong(name) {
   const str = document.createElement('strong');
-  str.innerHTML = name + '<br>';
+  str.innerHTML = `${name}<br>`;
   return str;
 }
 function createspan(text, cname) {
