@@ -81,9 +81,9 @@ After one month training.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
-[Live](https://osmanwako.github.io/Erriechafestival/)
 
 ## 🚀 Live Demo <a name="live-demo"></a>
+[Live](https://osmanwako.github.io/Erriechafestival/)
 
 <!-- GETTING STARTED -->
 
